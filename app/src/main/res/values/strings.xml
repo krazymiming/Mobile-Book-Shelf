@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Book Shelf One</string>
+    <string name="action_settings">Refresh</string>
+    <string name="getBooks">Getting Books.....</string>
+    <string name="title">Title</string>
+    <string name="genre">Genre</string>
+    <string name="author">Author</string>
+    <string name="confirmation">Are you sure you want to remove this book from the shelf?</string>
+</resources>
